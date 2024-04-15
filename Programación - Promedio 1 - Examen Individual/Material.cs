@@ -8,7 +8,7 @@ namespace Programación___Promedio_1___Examen_Individual
 {
     class Material
     {
-        protected string nombre;
+        internal string nombre;
 
         public Material(string nombre)
         {

@@ -8,7 +8,7 @@ namespace Programación___Promedio_1___Examen_Individual
 {
     class CarritoCompras
     {
-        protected List<object> listaProductos;
+        internal List<object> listaProductos;
 
         public CarritoCompras()
         {
